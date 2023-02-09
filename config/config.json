@@ -1,0 +1,65 @@
+{
+    "geometry": 
+    {
+    "x": 100,
+    "y": 100,
+    "width": 400,
+    "height": 300
+    },
+
+    "database": 
+    {
+    "db_file_name": "mydatabase.db",
+    "table_name": "text_entries"
+    },
+
+    "buttons_principal_window":
+    {
+    "search_button": "Buscar",
+    "delete_button": "Eliminar",
+    "update_button": "Actualizar",
+    "form_button": "Abrir formulario",
+    "view_button": "Ver datos del paciente"
+    },
+
+    "table_widget":
+    {
+    "table_column_count": 4,
+    "table_horizontal_header_labels": [
+    "ID",
+    "Nombre del paciente",
+    "Correo",
+    "Teléfono"]
+    },
+
+    "login_page": {
+        "button_login": "Login",
+        "user_name": "admin",
+        "password": "1234"
+    },
+
+    "patients_labels_window": {
+        "save_button": "Guardar paciente",
+        "pdf_button": "Generar PDF",
+        "password": "1234"
+    },
+
+    "psychologist":{
+        "psychologist_name": "Carolina",
+        "collegiate_number": "XXXXXXXXX"
+    },
+
+    "pdf_settings_header":{
+        "header_y": 800,
+        "y_rest": 25,
+        "header_x": 100
+    },
+
+    "pdf_settings_patient":{
+        "header_y": 750,
+        "y_rest": 25,
+        "header_x": 100
+    }
+
+
+}
